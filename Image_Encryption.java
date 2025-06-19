@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.Scanner;
 import javax.imageio.ImageIO;
 
-public class Image_Encryption {
+public class ImageEncryptor {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
